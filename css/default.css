@@ -1,26 +1,26 @@
-/* line 1, ../sass/default.scss */
+/* line 1, ../scss/default.scss */
 .marketing .col-lg-4 {
   text-align: center;
   margin-bottom: 20px;
 }
 
-/* line 6, ../sass/default.scss */
+/* line 6, ../scss/default.scss */
 .marketing h2 {
   font-weight: normal;
 }
 
-/* line 9, ../sass/default.scss */
+/* line 9, ../scss/default.scss */
 .marketing .col-lg-4 p {
   margin-right: 10px;
   margin-left: 10px;
 }
 
-/* line 14, ../sass/default.scss */
+/* line 14, ../scss/default.scss */
 .featurette-divider {
   margin: 80px 0;
 }
 
-/* line 19, ../sass/default.scss */
+/* line 19, ../scss/default.scss */
 .featurette-heading {
   font-weight: 300;
   line-height: 1;
@@ -28,35 +28,35 @@
 }
 
 @media (min-width: 768px) {
-  /* line 28, ../sass/default.scss */
+  /* line 28, ../scss/default.scss */
   .navbar-wrapper {
     margin-top: 20px;
   }
 
-  /* line 31, ../sass/default.scss */
+  /* line 31, ../scss/default.scss */
   .navbar-wrapper .container {
     padding-right: 15px;
     padding-left: 15px;
   }
 
-  /* line 35, ../sass/default.scss */
+  /* line 35, ../scss/default.scss */
   .navbar-wrapper .navbar {
     padding-right: 0;
     padding-left: 0;
   }
 
-  /* line 41, ../sass/default.scss */
+  /* line 41, ../scss/default.scss */
   .navbar-wrapper .navbar {
     border-radius: 4px;
   }
 
-  /* line 45, ../sass/default.scss */
+  /* line 45, ../scss/default.scss */
   .featurette-heading {
     font-size: 50px;
   }
 }
 @media (min-width: 992px) {
-  /* line 51, ../sass/default.scss */
+  /* line 51, ../scss/default.scss */
   .featurette-heading {
     margin-top: 120px;
   }
